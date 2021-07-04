@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="json-lib-2.1-jdk13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/网络/IPRegistrationLocationQuery/json-lib-2.1-jdk13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
